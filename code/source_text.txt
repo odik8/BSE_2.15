@@ -1,0 +1,3 @@
+This is a sensitive document.
+It contains confidential information like passwords and codes.
+Please handle with care.
