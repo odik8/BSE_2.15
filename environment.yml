@@ -1,4 +1,3 @@
 name: bse_2.15
 dependencies:
   - pre-commit=3.4.0=py312haa95532_1
-prefix: C:\Users\varfe\anaconda3\envs\bse_2.15
